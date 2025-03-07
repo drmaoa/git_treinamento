@@ -1,0 +1,5 @@
+# tirar os checkpoints 
+.ipynb_checkpoints/
+
+# tirar parquets
+*.parquet
